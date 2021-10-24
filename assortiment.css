@@ -84,11 +84,13 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-text-1 {
-    font-size: 3rem;
-    width: 340px;
+    font-size: 2.375rem;
+    width: auto;
+    margin-top: 224px;
   }
 
   .u-section-1 .u-text-2 {
     width: 340px;
+    margin-top: 19px;
   }
 }
