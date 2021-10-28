@@ -35005,11 +35005,11 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-image-1 {
-    margin-top: 46px;
+    margin-top: 47px;
   }
 
   .u-header .u-social-icons-1 {
-    margin-top: -40px;
+    margin-top: -41px;
   }
 
   .u-header .u-menu-1 {
@@ -35022,8 +35022,11 @@ a.u-link.u-text-hover-grey-90:hover {
     min-height: 165px;
   }
 
+  .u-header .u-image-1 {
+    margin-top: 54px;
+  }
+
   .u-header .u-menu-1 {
-    margin-right: 79px;
     margin-bottom: 60px;
   }
 }
