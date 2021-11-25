@@ -19,7 +19,6 @@
 .u-section-1 .u-group-1 {
   width: 944px;
   min-height: 64px;
-  height: auto;
   margin: -13px auto 0;
 }
 
@@ -53,7 +52,6 @@
 
   .u-section-1 .u-group-1 {
     width: 940px;
-    height: auto;
   }
 
   .u-section-1 .u-text-2 {
@@ -132,7 +130,6 @@
 }
 
 .u-section-2 .u-countdown-1 {
-  height: 112px;
   text-align: start;
   margin: -175px 60px 0 auto;
 }
@@ -269,7 +266,6 @@
 }
 
 .u-section-2 .u-countdown-2 {
-  height: 112px;
   margin: -192px auto 0 38px;
 }
 
@@ -417,7 +413,6 @@
 }
 
 .u-section-2 .u-countdown-3 {
-  height: 112px;
   text-align: start;
   margin: -94px auto 60px 402px;
 }
@@ -542,6 +537,7 @@
   }
 
   .u-section-2 .u-countdown-1 {
+    height: 112px;
     margin-right: 0;
   }
 
@@ -556,6 +552,7 @@
   }
 
   .u-section-2 .u-countdown-2 {
+    height: 112px;
     margin-top: -167px;
     margin-left: 0;
   }
@@ -572,6 +569,7 @@
   }
 
   .u-section-2 .u-countdown-3 {
+    height: 112px;
     margin-left: 202px;
   }
 }
