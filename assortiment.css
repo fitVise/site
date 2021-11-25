@@ -135,7 +135,6 @@
 .u-section-2 .u-group-1 {
   width: 428px;
   min-height: 256px;
-  height: auto;
   margin: 27px 34px 0 auto;
 }
 
@@ -278,7 +277,6 @@
 .u-section-2 .u-group-2 {
   width: 519px;
   min-height: 209px;
-  height: auto;
   margin: -243px auto 0 0;
 }
 
@@ -560,16 +558,6 @@
   font-weight: 600;
   text-transform: uppercase;
   font-size: 1rem;
-}
-
-@media (max-width: 1199px) {
-  .u-section-2 .u-group-1 {
-    height: auto;
-  }
-
-  .u-section-2 .u-group-2 {
-    height: auto;
-  }
 }
 
 @media (max-width: 991px) {
