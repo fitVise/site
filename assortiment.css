@@ -21,8 +21,9 @@
 }
 
 .u-section-1 .u-group-2 {
-  width: 679px;
+  width: 698px;
   min-height: 52px;
+  height: auto;
   margin: 6px auto 0;
 }
 
@@ -38,13 +39,17 @@
 .u-section-1 .u-text-2 {
   text-align: center;
   font-size: 2.25rem;
-  margin: -45px 207px 0 0;
+  margin: -45px 209px 0 0;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-container-layout-1 {
     padding-top: 0;
     padding-bottom: 0;
+  }
+
+  .u-section-1 .u-group-2 {
+    height: auto;
   }
 }
 
