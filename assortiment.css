@@ -208,7 +208,8 @@
 .u-section-2 .u-group-2 {
   width: 366px;
   min-height: 65px;
-  margin: 25px 17px 0 auto;
+  height: auto;
+  margin: 25px 18px 0 auto;
 }
 
 .u-section-2 .u-btn-1 {
@@ -242,6 +243,10 @@
     margin-top: 38px;
     margin-right: 5px;
     margin-left: 355px;
+  }
+
+  .u-section-2 .u-group-2 {
+    height: auto;
   }
 }
 
@@ -296,7 +301,7 @@
 
   .u-section-2 .u-group-2 {
     margin-top: 31px;
-    margin-right: 17px;
+    margin-right: 18px;
   }
 }
 
